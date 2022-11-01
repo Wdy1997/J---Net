@@ -1,0 +1,117 @@
+mean_loss: 6.4622, mean_iou: 0.7572, mean_dice: 0.8354
+
+
+mean_loss: 3.9028, mean_iou: 0.8563, mean_dice: 0.9087
+
+
+mean_loss: 3.7334, mean_iou: 0.8816, mean_dice: 0.9242
+
+
+mean_loss: 3.5194, mean_iou: 0.8940, mean_dice: 0.9341
+
+
+mean_loss: 3.7821, mean_iou: 0.8852, mean_dice: 0.9242
+
+
+mean_loss: 3.5999, mean_iou: 0.8834, mean_dice: 0.9289
+
+
+mean_loss: 3.4411, mean_iou: 0.8979, mean_dice: 0.9351
+
+
+mean_loss: 3.5641, mean_iou: 0.8912, mean_dice: 0.9295
+
+
+mean_loss: 3.6605, mean_iou: 0.8791, mean_dice: 0.9207
+
+
+mean_loss: 3.5654, mean_iou: 0.9009, mean_dice: 0.9374
+
+
+mean_loss: 3.6714, mean_iou: 0.8910, mean_dice: 0.9306
+
+
+mean_loss: 3.6919, mean_iou: 0.8902, mean_dice: 0.9281
+
+
+mean_loss: 3.6628, mean_iou: 0.9000, mean_dice: 0.9369
+
+
+mean_loss: 3.5770, mean_iou: 0.8975, mean_dice: 0.9337
+
+
+mean_loss: 3.3844, mean_iou: 0.9069, mean_dice: 0.9417
+
+
+mean_loss: 3.5510, mean_iou: 0.8998, mean_dice: 0.9343
+
+
+mean_loss: 3.5091, mean_iou: 0.9023, mean_dice: 0.9357
+
+
+mean_loss: 3.6405, mean_iou: 0.9017, mean_dice: 0.9370
+
+
+mean_loss: 3.6239, mean_iou: 0.9051, mean_dice: 0.9407
+
+
+mean_loss: 3.4909, mean_iou: 0.9109, mean_dice: 0.9443
+
+
+mean_loss: 3.5790, mean_iou: 0.9048, mean_dice: 0.9377
+
+
+mean_loss: 3.4723, mean_iou: 0.9135, mean_dice: 0.9454
+
+
+mean_loss: 3.4600, mean_iou: 0.9157, mean_dice: 0.9480
+
+
+mean_loss: 3.4263, mean_iou: 0.9148, mean_dice: 0.9471
+
+
+mean_loss: 3.4480, mean_iou: 0.9137, mean_dice: 0.9465
+
+
+mean_loss: 3.4418, mean_iou: 0.9125, mean_dice: 0.9441
+
+
+mean_loss: 3.6358, mean_iou: 0.9081, mean_dice: 0.9422
+
+
+mean_loss: 3.4271, mean_iou: 0.9144, mean_dice: 0.9469
+
+
+mean_loss: 3.4776, mean_iou: 0.9120, mean_dice: 0.9452
+
+
+mean_loss: 3.4464, mean_iou: 0.9121, mean_dice: 0.9453
+
+
+mean_loss: 3.4850, mean_iou: 0.9124, mean_dice: 0.9457
+
+
+mean_loss: 3.4512, mean_iou: 0.9144, mean_dice: 0.9461
+
+
+mean_loss: 3.5067, mean_iou: 0.9138, mean_dice: 0.9475
+
+
+mean_loss: 3.5372, mean_iou: 0.9115, mean_dice: 0.9452
+
+
+mean_loss: 3.5073, mean_iou: 0.9117, mean_dice: 0.9452
+
+
+mean_loss: 3.7030, mean_iou: 0.9041, mean_dice: 0.9387
+
+
+mean_loss: 3.6736, mean_iou: 0.9062, mean_dice: 0.9420
+
+
+mean_loss: 3.5609, mean_iou: 0.9108, mean_dice: 0.9456
+
+
+mean_loss: 3.5586, mean_iou: 0.9069, mean_dice: 0.9407
+
+
